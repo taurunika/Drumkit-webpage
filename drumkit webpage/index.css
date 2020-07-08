@@ -1,0 +1,30 @@
+body, h2, p{
+    margin: 0;
+}
+.tone-card{
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.card{
+    border: 2px solid #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.card>h2{
+    margin-bottom: 15px;
+}
+
+#background{
+    height: 100vh;
+    background-image: url("./assets/Texas-Bridge-Desktop-Background.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
